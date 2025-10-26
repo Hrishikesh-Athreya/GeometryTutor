@@ -7,6 +7,11 @@ Implements the **StudySnapsTutorProtocol** and is a part of the **StudySnap Agen
 
 ---
 
+## Agents deployments
+https://agentverse.ai/agents/details/agent1q0678mr2q6p9235y4g8ax8tvjzgqwk0slxxddkrkjysye99a4rgysxvpcrv/profile
+https://agentverse.ai/agents/details/agent1qwxepmyk063m8r0sj6l6wk2lzgg94mxwdvv8wa7k4wgd779yajz0ushqkj2/profile
+https://agentverse.ai/agents/details/agent1qflfta8hj3vujvz23mjcgssqug2mcghkdhzavaekvn5akw0at86wu5ezm5u/profile
+
 ### Example input
 
 ```python
